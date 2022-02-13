@@ -11,6 +11,8 @@
 		524DF0C427B8DFEF009B05A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0C327B8DFEF009B05A6 /* ContentView.swift */; };
 		524DF0C627B8DFF1009B05A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 524DF0C527B8DFF1009B05A6 /* Assets.xcassets */; };
 		524DF0C927B8DFF1009B05A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 524DF0C827B8DFF1009B05A6 /* Preview Assets.xcassets */; };
+		524DF0EF27B8E768009B05A6 /* MyNextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0EE27B8E768009B05A6 /* MyNextView.swift */; };
+		524DF0F127B8E76F009B05A6 /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0F027B8E76F009B05A6 /* MyVstackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +41,8 @@
 		524DF0CE27B8DFF2009B05A6 /* Learn_swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Learn_swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		524DF0D827B8DFF2009B05A6 /* Learn_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Learn_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		524DF0EE27B8E768009B05A6 /* MyNextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyNextView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyNextView.swift"; sourceTree = "<group>"; };
+		524DF0F027B8E76F009B05A6 /* MyVstackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyVstackView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyVstackView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,9 +91,11 @@
 		524DF0C027B8DFEF009B05A6 /* Learn_swift */ = {
 			isa = PBXGroup;
 			children = (
-				524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */,
 				524DF0C127B8DFEF009B05A6 /* Learn_swiftApp.swift */,
+				524DF0F027B8E76F009B05A6 /* MyVstackView.swift */,
+				524DF0EE27B8E768009B05A6 /* MyNextView.swift */,
 				524DF0C327B8DFEF009B05A6 /* ContentView.swift */,
+				524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */,
 				524DF0C527B8DFF1009B05A6 /* Assets.xcassets */,
 				524DF0C727B8DFF1009B05A6 /* Preview Content */,
 			);
@@ -236,6 +242,8 @@
 			files = (
 				524DF0C427B8DFEF009B05A6 /* ContentView.swift in Sources */,
 				524DF0C227B8DFEF009B05A6 /* Learn_swiftApp.swift in Sources */,
+				524DF0F127B8E76F009B05A6 /* MyVstackView.swift in Sources */,
+				524DF0EF27B8E768009B05A6 /* MyNextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
