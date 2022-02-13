@@ -44,6 +44,7 @@
 		524DF0D827B8DFF2009B05A6 /* Learn_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Learn_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		524DF0DC27B8DFF2009B05A6 /* Learn_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_swiftUITests.swift; sourceTree = "<group>"; };
 		524DF0DE27B8DFF2009B05A6 /* Learn_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		524DF0C027B8DFEF009B05A6 /* Learn_swift */ = {
 			isa = PBXGroup;
 			children = (
+				524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */,
 				524DF0C127B8DFEF009B05A6 /* Learn_swiftApp.swift */,
 				524DF0C327B8DFEF009B05A6 /* ContentView.swift */,
 				524DF0C527B8DFF1009B05A6 /* Assets.xcassets */,
