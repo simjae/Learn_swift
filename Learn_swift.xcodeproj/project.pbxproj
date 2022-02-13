@@ -33,6 +33,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		520BE00427B97C09003F92FF /* #2_dataType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#2_dataType.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		524DF0BE27B8DFEF009B05A6 /* Learn_swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learn_swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		524DF0C127B8DFEF009B05A6 /* Learn_swiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_swiftApp.swift; sourceTree = "<group>"; };
 		524DF0C327B8DFEF009B05A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -40,7 +41,7 @@
 		524DF0C827B8DFF1009B05A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		524DF0CE27B8DFF2009B05A6 /* Learn_swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Learn_swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		524DF0D827B8DFF2009B05A6 /* Learn_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Learn_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		524DF0ED27B8E0E4009B05A6 /* #1_var_let.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#1_var_let.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		524DF0EE27B8E768009B05A6 /* MyNextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyNextView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyNextView.swift"; sourceTree = "<group>"; };
 		524DF0F027B8E76F009B05A6 /* MyVstackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyVstackView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyVstackView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -95,9 +96,10 @@
 				524DF0F027B8E76F009B05A6 /* MyVstackView.swift */,
 				524DF0EE27B8E768009B05A6 /* MyNextView.swift */,
 				524DF0C327B8DFEF009B05A6 /* ContentView.swift */,
-				524DF0ED27B8E0E4009B05A6 /* MyPlayground.playground */,
+				524DF0ED27B8E0E4009B05A6 /* #1_var_let.playground */,
 				524DF0C527B8DFF1009B05A6 /* Assets.xcassets */,
 				524DF0C727B8DFF1009B05A6 /* Preview Content */,
+				520BE00427B97C09003F92FF /* #2_dataType.playground */,
 			);
 			path = Learn_swift;
 			sourceTree = "<group>";
@@ -401,6 +403,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Learn_swift/Preview Content\"";
+				DEVELOPMENT_TEAM = BNX5T36C73;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -429,6 +432,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Learn_swift/Preview Content\"";
+				DEVELOPMENT_TEAM = BNX5T36C73;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
