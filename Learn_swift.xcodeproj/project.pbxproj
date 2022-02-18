@@ -13,6 +13,8 @@
 		524DF0C927B8DFF1009B05A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 524DF0C827B8DFF1009B05A6 /* Preview Assets.xcassets */; };
 		524DF0EF27B8E768009B05A6 /* MyNextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0EE27B8E768009B05A6 /* MyNextView.swift */; };
 		524DF0F127B8E76F009B05A6 /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0F027B8E76F009B05A6 /* MyVstackView.swift */; };
+		52ABF77727BF553600E6AF74 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABF77627BF553600E6AF74 /* MainView.swift */; };
+		52ABF77927BF597F00E6AF74 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABF77827BF597F00E6AF74 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		524DF0ED27B8E0E4009B05A6 /* #1_var_let.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#1_var_let.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		524DF0EE27B8E768009B05A6 /* MyNextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyNextView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyNextView.swift"; sourceTree = "<group>"; };
 		524DF0F027B8E76F009B05A6 /* MyVstackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyVstackView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyVstackView.swift"; sourceTree = "<group>"; };
+		52ABF77627BF553600E6AF74 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		52ABF77827BF597F00E6AF74 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +99,8 @@
 				524DF0C127B8DFEF009B05A6 /* Learn_swiftApp.swift */,
 				524DF0F027B8E76F009B05A6 /* MyVstackView.swift */,
 				524DF0EE27B8E768009B05A6 /* MyNextView.swift */,
+				52ABF77627BF553600E6AF74 /* MainView.swift */,
+				52ABF77827BF597F00E6AF74 /* MapView.swift */,
 				524DF0C327B8DFEF009B05A6 /* ContentView.swift */,
 				524DF0ED27B8E0E4009B05A6 /* #1_var_let.playground */,
 				524DF0C527B8DFF1009B05A6 /* Assets.xcassets */,
@@ -242,10 +248,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52ABF77727BF553600E6AF74 /* MainView.swift in Sources */,
 				524DF0C427B8DFEF009B05A6 /* ContentView.swift in Sources */,
 				524DF0C227B8DFEF009B05A6 /* Learn_swiftApp.swift in Sources */,
 				524DF0F127B8E76F009B05A6 /* MyVstackView.swift in Sources */,
 				524DF0EF27B8E768009B05A6 /* MyNextView.swift in Sources */,
+				52ABF77927BF597F00E6AF74 /* MapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
