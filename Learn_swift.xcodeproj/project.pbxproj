@@ -15,6 +15,7 @@
 		524DF0F127B8E76F009B05A6 /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524DF0F027B8E76F009B05A6 /* MyVstackView.swift */; };
 		52ABF77727BF553600E6AF74 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABF77627BF553600E6AF74 /* MainView.swift */; };
 		52ABF77927BF597F00E6AF74 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABF77827BF597F00E6AF74 /* MapView.swift */; };
+		52ABF77B27BF784E00E6AF74 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABF77A27BF784E00E6AF74 /* Landmark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		524DF0F027B8E76F009B05A6 /* MyVstackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyVstackView.swift; path = "../../SwiftUI#1/SwiftUI#1/MyVstackView.swift"; sourceTree = "<group>"; };
 		52ABF77627BF553600E6AF74 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		52ABF77827BF597F00E6AF74 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		52ABF77A27BF784E00E6AF74 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				524DF0EE27B8E768009B05A6 /* MyNextView.swift */,
 				52ABF77627BF553600E6AF74 /* MainView.swift */,
 				52ABF77827BF597F00E6AF74 /* MapView.swift */,
+				52ABF77A27BF784E00E6AF74 /* Landmark.swift */,
 				524DF0C327B8DFEF009B05A6 /* ContentView.swift */,
 				524DF0ED27B8E0E4009B05A6 /* #1_var_let.playground */,
 				524DF0C527B8DFF1009B05A6 /* Assets.xcassets */,
@@ -248,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52ABF77B27BF784E00E6AF74 /* Landmark.swift in Sources */,
 				52ABF77727BF553600E6AF74 /* MainView.swift in Sources */,
 				524DF0C427B8DFEF009B05A6 /* ContentView.swift in Sources */,
 				524DF0C227B8DFEF009B05A6 /* Learn_swiftApp.swift in Sources */,
